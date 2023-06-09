@@ -12,4 +12,10 @@
 
 3.将"main.py”和"main.pdb"、"logo.pdb"放到同一个文件夹，运行"main.py"即可
 
+### <center>运行环境</center>
+
+Python 3.10.10
+
+Pygame 2.4.0
+
 ##### 此软件由PanuGame开发团队制作，您的支持是我们的动力~
