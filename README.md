@@ -6,11 +6,9 @@
 
 ### <center>使用方法</center>
 
-1.按照"星数.txt"里星座星的数量，向"星座/星座名"里添加"1.jpg"、"2.jpg"...
-
-2.运行"packimg.py"，会对星图进行打包操作，生成"main.pdb"和"logo.pdb"
-
-3.将"main.py”和"main.pdb"、"logo.pdb"放到同一个文件夹，运行"main.py"即可
+1. 按照"星数.txt"里星座星的数量，向"星座/星座名"里添加"1.jpg"、"2.jpg"...
+2. 运行"packimg.py"，会对星图进行打包操作，生成"main.pdb"和"logo.pdb"
+3. 将"main.py”和"main.pdb"、"logo.pdb"放到同一个文件夹，运行"main.py"即可
 
 ### <center>运行环境</center>
 
